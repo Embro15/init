@@ -1,0 +1,3 @@
+systemctl list-units --type service
+
+# Lists all services which are started at boot-time with names of services

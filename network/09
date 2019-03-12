@@ -1,0 +1,6 @@
+nslookup 42.fr
+
+# the ip addresses listed are all the external ip addresses of 42.fr
+# 163.172.250.13
+# 163.172.250.12
+# 163.172.250.11

@@ -1,0 +1,4 @@
+traceroute slash16.org
+
+# line 3: 3 nat (10.90.1.11) is the name and address of the device 
+# that links the local network to the outside world

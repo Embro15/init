@@ -1,0 +1,4 @@
+ssh hello@192.168.56.102
+
+# ssh <user>@<ipaddress> is the generic way the info above
+# is for my specific server which you'll also need a password for

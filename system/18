@@ -1,0 +1,3 @@
+killall sshd
+
+# will kill all services connected via ssh

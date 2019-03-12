@@ -1,0 +1,4 @@
+man useradd
+
+# this will show the usability of the function useradd which allows
+# a sudo user to add new users to the server.

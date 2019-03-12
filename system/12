@@ -1,0 +1,4 @@
+du -sh /var/*
+
+# Figures out the size of each folder of /var with in a 
+# human readable way with the path following it

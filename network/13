@@ -1,0 +1,6 @@
+nslookup $(ifconfig en0 | grep "inet " | awk '{print $2}')
+
+# this will lookup the name of your dns servers IP
+# name will be whatever the computer your using is at
+# example e1z3r7p9.42.us.org.
+# so If i'm at another computer it may be different

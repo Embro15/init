@@ -1,0 +1,4 @@
+cat /etc/ssh/sshd_config
+
+# this file contains the RSA keys of systems that are authorized to connect
+# the actual keys listed in this file are held /etc/ssh/ in my server's case

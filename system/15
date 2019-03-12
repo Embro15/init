@@ -1,0 +1,5 @@
+kill
+
+# Will need to list jobs -l to find the PID and add the PID to the kill
+# i.e if the PID = 1628 the command would be:
+# kill 1628

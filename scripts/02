@@ -1,0 +1,4 @@
+userdel -r tester
+
+# userdel -r <username>
+# this deletes the user and their mail directory (if they have one)

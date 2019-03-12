@@ -1,0 +1,8 @@
+ssh test@192.168.56.102
+
+# useradd -m <nameofuser> (test)
+# passwd <nameofuser> (test)
+# enter password of choice (ok)
+# reenter password of choice (ok)
+# connect via ssh with above command
+# log out of current user on graphical then log in with new name (test)

@@ -1,0 +1,6 @@
+tail -f /var/log/syslog &
+
+# & makes job run in background
+# jobs will list running jobs
+# jobs -l will list PID num
+# kill PID will terminate the job
